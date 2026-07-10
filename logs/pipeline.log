@@ -1,0 +1,48 @@
+2026-07-10 22:32:51,483 - INFO - Dataset extracted successfully.
+2026-07-10 22:33:30,960 - INFO - Dataset extracted successfully.
+2026-07-10 22:33:30,966 - INFO - Duplicates Removed : 0
+2026-07-10 22:33:30,967 - INFO - Numeric conversion completed.
+2026-07-10 22:33:30,968 - INFO - Missing values handled.
+2026-07-10 22:33:30,968 - INFO - Text columns cleaned.
+2026-07-10 22:33:30,969 - INFO - Profit Category created.
+2026-07-10 22:33:30,973 - INFO - Transformation completed successfully.
+2026-07-10 22:33:59,605 - INFO - Dataset extracted successfully.
+2026-07-10 22:33:59,612 - INFO - Duplicates Removed : 0
+2026-07-10 22:33:59,612 - INFO - Numeric conversion completed.
+2026-07-10 22:33:59,614 - INFO - Missing values handled.
+2026-07-10 22:33:59,615 - INFO - Text columns cleaned.
+2026-07-10 22:33:59,615 - INFO - Profit Category created.
+2026-07-10 22:33:59,620 - INFO - Transformation completed successfully.
+2026-07-10 22:33:59,623 - INFO - Validation Completed Successfully.
+2026-07-10 22:34:23,602 - INFO - Dataset extracted successfully.
+2026-07-10 22:34:23,609 - INFO - Duplicates Removed : 0
+2026-07-10 22:34:23,610 - INFO - Numeric conversion completed.
+2026-07-10 22:34:23,611 - INFO - Missing values handled.
+2026-07-10 22:34:23,612 - INFO - Text columns cleaned.
+2026-07-10 22:34:23,612 - INFO - Profit Category created.
+2026-07-10 22:34:23,617 - INFO - Transformation completed successfully.
+2026-07-10 22:34:23,619 - INFO - Validation Completed Successfully.
+2026-07-10 22:34:23,627 - INFO - Dataset loaded successfully.
+2026-07-10 22:36:19,865 - INFO - Dashboard created successfully.
+2026-07-10 22:36:54,523 - INFO - Dataset extracted successfully.
+2026-07-10 22:36:54,529 - INFO - Duplicates Removed : 0
+2026-07-10 22:36:54,530 - INFO - Numeric conversion completed.
+2026-07-10 22:36:54,531 - INFO - Missing values handled.
+2026-07-10 22:36:54,531 - INFO - Text columns cleaned.
+2026-07-10 22:36:54,532 - INFO - Profit Category created.
+2026-07-10 22:36:54,536 - INFO - Transformation completed successfully.
+2026-07-10 22:36:54,538 - INFO - Validation Completed Successfully.
+2026-07-10 22:36:54,540 - INFO - Dataset loaded successfully.
+2026-07-10 22:36:56,477 - INFO - Dashboard created successfully.
+2026-07-10 22:36:56,477 - INFO - ETL Pipeline Completed Successfully.
+2026-07-10 22:38:15,686 - INFO - Dataset extracted successfully.
+2026-07-10 22:38:15,692 - INFO - Duplicates Removed : 0
+2026-07-10 22:38:15,693 - INFO - Numeric conversion completed.
+2026-07-10 22:38:15,694 - INFO - Missing values handled.
+2026-07-10 22:38:15,694 - INFO - Text columns cleaned.
+2026-07-10 22:38:15,694 - INFO - Profit Category created.
+2026-07-10 22:38:15,698 - INFO - Transformation completed successfully.
+2026-07-10 22:38:15,701 - INFO - Validation Completed Successfully.
+2026-07-10 22:38:15,703 - INFO - Dataset loaded successfully.
+2026-07-10 22:38:17,270 - INFO - Dashboard created successfully.
+2026-07-10 22:38:17,270 - INFO - ETL Pipeline Completed Successfully.
